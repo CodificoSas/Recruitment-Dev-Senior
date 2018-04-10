@@ -10,7 +10,7 @@ Para el correcto desarrollo de la prueba, es necesario que tenga en cuenta los s
 + **Clone** este repositorio.
 + Cree un proyecto privado de **GitLab** (free) o un repositorio privado de **GitHub** ($).
 + Realice un push al nuevo remoto y efectúe sus commits ahí. 
-+ Otorgue permisos y acceso a **@CJavierSaldana** para tener acceso al código y realizar las pertinentes observaciones.
++ Otorgue permisos y acceso a **@Masj1a** y **@DiegoBernal182** para tener acceso al código y realizar las pertinentes observaciones.
 + Desarrolle su proyecto en la solución `Codifico.Senior.sln`
 + Sí cree necesario agregar más proyectos, por favor agréguelos bajo el folder `source/`
 + Tenga en cuenta que la solución será compilada en otras máquinas. Asegúrese de no tener referencias locales.
