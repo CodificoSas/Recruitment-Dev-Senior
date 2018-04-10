@@ -39,4 +39,5 @@ Para el correcto desarrollo de la prueba, es necesario que tenga en cuenta los s
 + Declarar un ganador y dar la opción de reiniciar el juego.  
 
 #### Info
-+ Javiers@nserio.com
++ marlons@codifico.co
++ diegob@codifico.co
